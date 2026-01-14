@@ -61,14 +61,4 @@ The project demonstrates how **software (Python + OpenCV)** can be effectively i
 
 ---
 
-## 🧠 Why Eye Blink Detection?
 
-Eye closure duration is one of the most reliable indicators of drowsiness.  
-Compared to steering-based or posture-based methods, eye detection provides:
-- Direct feedback of driver alertness
-- Faster response
-- Higher accuracy
-
----
-
-## 📂 Project Structure
